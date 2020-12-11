@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap");
+
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+
+body {
+  font-family: "Architects Daughter", cursive;
+  color: #323330;
+  background-color: #f0db4f;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  border: solid 1px black;
+  border-radius: 2rem;
+  padding: 0.025rem 1.25rem;
+}
+
+a:hover {
+  background-color: black;
+  color: #f0db4f;
+}
